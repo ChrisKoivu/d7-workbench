@@ -1,0 +1,9 @@
+name = Agent Point Module
+description = Module to connect to Agent Point's API
+package = REST
+core = 7.x 
+version = "7.x-1.x-dev"
+core = "7.x"
+ 
+; NEW LINE
+configure = admin/config/rest/agent_point_settings
